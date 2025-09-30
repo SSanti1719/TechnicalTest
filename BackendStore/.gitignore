@@ -1,0 +1,80 @@
+## Archivos de compilación
+bin/
+obj/
+out/
+[Ll]og/
+[Bb]uild/
+
+## Configuración de IDEs
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Archivos de dependencias
+packages/
+*.nupkg
+*.snupkg
+
+## Archivos de publicación
+publish/
+*.Publish.xml
+*.pubxml
+*.publishproj
+
+## Archivos temporales y de build
+*.tmp
+*.temp
+*.log
+*.tlog
+*.vspscc
+*.dbmdl
+*.bak
+*.backup
+*.dbproj.schemaview
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlh
+*.tli
+
+## Resultados de test (NO proyectos de test)
+TestResults/
+*.coverage
+*.coveragexml
+*.testsettings
+
+## Archivos de configuración sensible
+appsettings.Development.json
+appsettings.*.json
+secrets.json
+.env
+
+## Archivos de sistema
+.DS_Store
+Thumbs.db
+
+## Archivos de contenedor / docker
+docker-compose.override.yml
+.dockerignore
+
+## Archivos de usuario de Rider / VS Code
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+## Archivos de cache
+*.cache
