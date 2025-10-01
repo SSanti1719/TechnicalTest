@@ -97,3 +97,4 @@ C:\Users\Santiago Salazar\Documents\Trabajo\NSerio\Prueba tecnica\Project\Backen
 C:\Users\Santiago Salazar\Documents\Trabajo\NSerio\Prueba tecnica\Project\BackendStore\BackendStore\obj\Debug\net8.0\BackendStore.pdb
 C:\Users\Santiago Salazar\Documents\Trabajo\NSerio\Prueba tecnica\Project\BackendStore\BackendStore\obj\Debug\net8.0\BackendStore.genruntimeconfig.cache
 C:\Users\Santiago Salazar\Documents\Trabajo\NSerio\Prueba tecnica\Project\BackendStore\BackendStore\obj\Debug\net8.0\ref\BackendStore.dll
+C:\Users\Santiago Salazar\Documents\Trabajo\NSerio\Prueba tecnica\Project\BackendStore\BackendStore\obj\Debug\net8.0\BackendStore.sourcelink.json

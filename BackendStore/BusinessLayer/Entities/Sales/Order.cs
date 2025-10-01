@@ -40,14 +40,4 @@ namespace Domain.Entities.Sales
         public DateTime LastOrderDate { get; set; }
         public DateTime NextPredictedOrder { get; set; }
     }
-
-    public class OrderByCustomer
-    {
-        public int OrderId { get; set; }
-        public DateTime RequiredDate { get; set; }
-        public DateTime? ShippedDate { get; set; }
-        public string ShipName { get; set; }
-        public string ShipAddress { get; set; }
-        public string ShipCity { get; set; }
-    }
 }

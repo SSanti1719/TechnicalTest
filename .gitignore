@@ -1,0 +1,62 @@
+# ==========================================
+# Global ignores
+# ==========================================
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+
+# ==========================================
+# Backend (.NET / C#)
+# ==========================================
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.vs/
+*.vscode/
+*.swp
+_ReSharper*/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+.nuget/
+packages/
+*.dll
+*.exe
+*.pdb
+
+# Entity Framework Migrations
+Migrations/
+
+# ==========================================
+# Frontend (Angular)
+# ==========================================
+dist/
+tmp/
+out-tsc/
+build/
+
+# node
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+package-lock.json
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Angular cache
+.angular/

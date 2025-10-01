@@ -1,0 +1,47 @@
+.customer-card {
+  padding: 16px;
+  margin: 16px;
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.title {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+  color: #333;
+}
+
+.search-field {
+  width: 300px;
+}
+
+table {
+  width: 100%;
+}
+
+th.mat-header-cell {
+  font-weight: 600;
+  color: #555;
+}
+
+td.mat-cell {
+  font-size: 14px;
+}
+
+button[mat-button] {
+  font-weight: 600;
+}
+
+button[color="warn"] {
+  color: #d32f2f; /* rojo */
+}
+
+button[color="primary"] {
+  color: #2e7d32; /* verde */
+}

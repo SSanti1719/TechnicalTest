@@ -1,0 +1,15 @@
+<div *ngIf="loading" class="loader-container">
+  <mat-spinner diameter="60"></mat-spinner>
+</div>
+
+<div *ngIf="!loading && hasError" class="loader-container error">
+  <mat-icon color="warn">error</mat-icon>
+  <p>There was a problem loading data. Please try again later.</p>
+</div>
+
+<div *ngIf="!loading && !hasError && isEmpty" class="loader-container empty">
+  <mat-icon>info</mat-icon>
+  <p>No records found.</p>
+</div>
+
+<ng-content *ngIf="!loading && !hasError && !isEmpty"></ng-content>

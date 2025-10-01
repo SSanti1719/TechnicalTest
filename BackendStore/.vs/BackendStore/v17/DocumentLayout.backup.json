@@ -3,8 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A0D52554-C162-462A-AFAB-BCB1D699B7E7}|Infrastructure\\Infrastructure.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\infrastructure\\repositories\\sales\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D52554-C162-462A-AFAB-BCB1D699B7E7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\sales\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D52554-C162-462A-AFAB-BCB1D699B7E7}|Infrastructure\\Infrastructure.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\infrastructure\\queries\\sales.usp_createorderwithdetail.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A0D52554-C162-462A-AFAB-BCB1D699B7E7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\queries\\sales.usp_createorderwithdetail.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\businesslayer\\entities\\sales\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|solutionrelative:businesslayer\\entities\\sales\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\businesslayer\\interfaces\\repositories\\sales\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|solutionrelative:businesslayer\\interfaces\\repositories\\sales\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\businesslayer\\services\\sales\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|solutionrelative:businesslayer\\services\\sales\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7757EBE2-CA80-4973-A28D-71CAAC1E03E8}|BackendStore\\BackendStore.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\backendstore\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7757EBE2-CA80-4973-A28D-71CAAC1E03E8}|BackendStore\\BackendStore.csproj|solutionrelative:backendstore\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7757EBE2-CA80-4973-A28D-71CAAC1E03E8}|BackendStore\\BackendStore.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\backendstore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7757EBE2-CA80-4973-A28D-71CAAC1E03E8}|BackendStore\\BackendStore.csproj|solutionrelative:backendstore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7757EBE2-CA80-4973-A28D-71CAAC1E03E8}|BackendStore\\BackendStore.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\backendstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7757EBE2-CA80-4973-A28D-71CAAC1E03E8}|BackendStore\\BackendStore.csproj|solutionrelative:backendstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7757EBE2-CA80-4973-A28D-71CAAC1E03E8}|BackendStore\\BackendStore.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\backendstore\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7757EBE2-CA80-4973-A28D-71CAAC1E03E8}|BackendStore\\BackendStore.csproj|solutionrelative:backendstore\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\businesslayer\\entities\\sales\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|solutionrelative:businesslayer\\entities\\sales\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\businesslayer\\services\\sales\\shipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|solutionrelative:businesslayer\\services\\sales\\shipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\businesslayer\\services\\production\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|solutionrelative:businesslayer\\services\\production\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\businesslayer\\dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|solutionrelative:businesslayer\\dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\businesslayer\\interfaces\\repositories\\sales\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,32 +63,12 @@
       "RelativeMoniker": "D:0:0:{A0D52554-C162-462A-AFAB-BCB1D699B7E7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\sales\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7757EBE2-CA80-4973-A28D-71CAAC1E03E8}|BackendStore\\BackendStore.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\backendstore\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7757EBE2-CA80-4973-A28D-71CAAC1E03E8}|BackendStore\\BackendStore.csproj|solutionrelative:backendstore\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0D52554-C162-462A-AFAB-BCB1D699B7E7}|Infrastructure\\Infrastructure.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\infrastructure\\repositories\\sales\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0D52554-C162-462A-AFAB-BCB1D699B7E7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\sales\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\businesslayer\\interfaces\\repositories\\sales\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|solutionrelative:businesslayer\\interfaces\\repositories\\sales\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A0D52554-C162-462A-AFAB-BCB1D699B7E7}|Infrastructure\\Infrastructure.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\infrastructure\\repositories\\sales\\shipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0D52554-C162-462A-AFAB-BCB1D699B7E7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\sales\\shipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0D52554-C162-462A-AFAB-BCB1D699B7E7}|Infrastructure\\Infrastructure.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0D52554-C162-462A-AFAB-BCB1D699B7E7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\businesslayer\\entities\\sales\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|solutionrelative:businesslayer\\entities\\sales\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7757EBE2-CA80-4973-A28D-71CAAC1E03E8}|BackendStore\\BackendStore.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\backendstore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7757EBE2-CA80-4973-A28D-71CAAC1E03E8}|BackendStore\\BackendStore.csproj|solutionrelative:backendstore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0D52554-C162-462A-AFAB-BCB1D699B7E7}|Infrastructure\\Infrastructure.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\infrastructure\\repositories\\production\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,16 +83,8 @@
       "RelativeMoniker": "D:0:0:{7757EBE2-CA80-4973-A28D-71CAAC1E03E8}|BackendStore\\BackendStore.csproj|solutionrelative:backendstore\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\businesslayer\\dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|solutionrelative:businesslayer\\dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\businesslayer\\services\\sales\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|solutionrelative:businesslayer\\services\\sales\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\businesslayer\\services\\sales\\shipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|solutionrelative:businesslayer\\services\\sales\\shipperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\businesslayer\\interfaces\\repositories\\hr\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,10 +99,6 @@
       "RelativeMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|solutionrelative:businesslayer\\interfaces\\repositories\\sales\\ishipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7757EBE2-CA80-4973-A28D-71CAAC1E03E8}|BackendStore\\BackendStore.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\backendstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7757EBE2-CA80-4973-A28D-71CAAC1E03E8}|BackendStore\\BackendStore.csproj|solutionrelative:backendstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7757EBE2-CA80-4973-A28D-71CAAC1E03E8}|BackendStore\\BackendStore.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\backendstore\\controllers\\shipperscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7757EBE2-CA80-4973-A28D-71CAAC1E03E8}|BackendStore\\BackendStore.csproj|solutionrelative:backendstore\\controllers\\shipperscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -91,24 +107,12 @@
       "RelativeMoniker": "D:0:0:{A0D52554-C162-462A-AFAB-BCB1D699B7E7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\hr\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\businesslayer\\services\\production\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|solutionrelative:businesslayer\\services\\production\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\businesslayer\\entities\\sales\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|solutionrelative:businesslayer\\entities\\sales\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\businesslayer\\entities\\hr\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|solutionrelative:businesslayer\\entities\\hr\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7757EBE2-CA80-4973-A28D-71CAAC1E03E8}|BackendStore\\BackendStore.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\backendstore\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7757EBE2-CA80-4973-A28D-71CAAC1E03E8}|BackendStore\\BackendStore.csproj|solutionrelative:backendstore\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\businesslayer\\entities\\sales\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|solutionrelative:businesslayer\\entities\\sales\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\businesslayer\\entities\\production\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -125,6 +129,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\businesslayer\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5CAC6D58-B85A-4801-8E46-BC820AA00FAF}|BusinessLayer\\Domain.csproj|solutionrelative:businesslayer\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D52554-C162-462A-AFAB-BCB1D699B7E7}|Infrastructure\\Infrastructure.csproj|c:\\users\\santiago salazar\\documents\\trabajo\\nserio\\prueba tecnica\\project\\backendstore\\infrastructure\\queries\\sales.usp_createorderwithdetail.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A0D52554-C162-462A-AFAB-BCB1D699B7E7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\queries\\sales.usp_createorderwithdetail.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -134,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,137 +150,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAwGsAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:21:47.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BackendStore\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "BackendStore\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BackendStore\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "BackendStore\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAcwFEAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T23:29:19.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IEmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Interfaces\\Repositories\\HR\\IEmployeeRepository.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Interfaces\\Repositories\\HR\\IEmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Interfaces\\Repositories\\HR\\IEmployeeRepository.cs",
-              "RelativeToolTip": "BusinessLayer\\Interfaces\\Repositories\\HR\\IEmployeeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:04:34.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ShipperService.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Services\\Sales\\ShipperService.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Services\\Sales\\ShipperService.cs",
-              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Services\\Sales\\ShipperService.cs",
-              "RelativeToolTip": "BusinessLayer\\Services\\Sales\\ShipperService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:11:04.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Services\\Sales\\OrderService.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Services\\Sales\\OrderService.cs",
-              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Services\\Sales\\OrderService.cs",
-              "RelativeToolTip": "BusinessLayer\\Services\\Sales\\OrderService.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowFsAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:59:12.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Services\\Sales\\CustomerService.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Services\\Sales\\CustomerService.cs",
-              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Services\\Sales\\CustomerService.cs",
-              "RelativeToolTip": "BusinessLayer\\Services\\Sales\\CustomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T19:36:46.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Interfaces\\Repositories\\Sales\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Interfaces\\Repositories\\Sales\\IOrderRepository.cs",
-              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Interfaces\\Repositories\\Sales\\IOrderRepository.cs",
-              "RelativeToolTip": "BusinessLayer\\Interfaces\\Repositories\\Sales\\IOrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:48:24.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ICustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Interfaces\\Repositories\\Sales\\ICustomerRepository.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Interfaces\\Repositories\\Sales\\ICustomerRepository.cs",
-              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Interfaces\\Repositories\\Sales\\ICustomerRepository.cs",
-              "RelativeToolTip": "BusinessLayer\\Interfaces\\Repositories\\Sales\\ICustomerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:20:49.751Z",
+              "Title": "Sales.usp_CreateOrderWithDetail.sql ",
+              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Queries\\Sales.usp_CreateOrderWithDetail.sql",
+              "RelativeDocumentMoniker": "Infrastructure\\Queries\\Sales.usp_CreateOrderWithDetail.sql",
+              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Queries\\Sales.usp_CreateOrderWithDetail.sql",
+              "RelativeToolTip": "Infrastructure\\Queries\\Sales.usp_CreateOrderWithDetail.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-30T21:39:36.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Entities\\Sales\\Order.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Entities\\Sales\\Order.cs",
               "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Entities\\Sales\\Order.cs",
               "RelativeToolTip": "BusinessLayer\\Entities\\Sales\\Order.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA8wCkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T22:44:44.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Repositories\\Sales\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Sales\\OrderRepository.cs",
               "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Repositories\\Sales\\OrderRepository.cs",
               "RelativeToolTip": "Infrastructure\\Repositories\\Sales\\OrderRepository.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAQwH4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwF8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T22:52:52.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Repositories\\Production\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Production\\ProductRepository.cs",
@@ -280,12 +196,11 @@
               "RelativeToolTip": "Infrastructure\\Repositories\\Production\\ProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:16:56.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T22:16:56.734Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "CustomersController.cs",
               "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BackendStore\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "BackendStore\\Controllers\\CustomersController.cs",
@@ -293,64 +208,11 @@
               "RelativeToolTip": "BackendStore\\Controllers\\CustomersController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:24:01.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T17:24:01.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ShipperRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Repositories\\Sales\\ShipperRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Sales\\ShipperRepository.cs",
-              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Repositories\\Sales\\ShipperRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repositories\\Sales\\ShipperRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:17:42.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Repositories\\Sales\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Sales\\CustomerRepository.cs",
-              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Repositories\\Sales\\CustomerRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repositories\\Sales\\CustomerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:22:03.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BackendStore\\Program.cs",
-              "RelativeDocumentMoniker": "BackendStore\\Program.cs",
-              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BackendStore\\Program.cs",
-              "RelativeToolTip": "BackendStore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T16:43:06.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BackendStore\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "BackendStore\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BackendStore\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "BackendStore\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:27:19.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "OrderCreateDTO.cs",
               "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\DTOs\\OrderCreateDTO.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\OrderCreateDTO.cs",
@@ -358,77 +220,11 @@
               "RelativeToolTip": "BusinessLayer\\DTOs\\OrderCreateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:47:10.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IShipperRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Interfaces\\Repositories\\Sales\\IShipperRepository.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Interfaces\\Repositories\\Sales\\IShipperRepository.cs",
-              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Interfaces\\Repositories\\Sales\\IShipperRepository.cs",
-              "RelativeToolTip": "BusinessLayer\\Interfaces\\Repositories\\Sales\\IShipperRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:05:27.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T22:47:10.167Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Services\\HR\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Services\\HR\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Services\\HR\\EmployeeService.cs",
-              "RelativeToolTip": "BusinessLayer\\Services\\HR\\EmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:06:57.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Repositories\\HR\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\HR\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Repositories\\HR\\EmployeeRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repositories\\HR\\EmployeeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:12:48.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Interfaces\\Repositories\\Production\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Interfaces\\Repositories\\Production\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Interfaces\\Repositories\\Production\\IProductRepository.cs",
-              "RelativeToolTip": "BusinessLayer\\Interfaces\\Repositories\\Production\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:06:12.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ShippersController.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BackendStore\\Controllers\\ShippersController.cs",
-              "RelativeDocumentMoniker": "BackendStore\\Controllers\\ShippersController.cs",
-              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BackendStore\\Controllers\\ShippersController.cs",
-              "RelativeToolTip": "BackendStore\\Controllers\\ShippersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:26:14.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Services\\Production\\ProductService.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Services\\Production\\ProductService.cs",
@@ -436,51 +232,23 @@
               "RelativeToolTip": "BusinessLayer\\Services\\Production\\ProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:08:03.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T22:08:03.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Entities\\HR\\Employee.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Entities\\HR\\Employee.cs",
-              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Entities\\HR\\Employee.cs",
-              "RelativeToolTip": "BusinessLayer\\Entities\\HR\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Entities\\Sales\\Customer.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Entities\\Sales\\Customer.cs",
+              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Entities\\Sales\\Customer.cs",
+              "RelativeToolTip": "BusinessLayer\\Entities\\Sales\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:00:24.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T16:17:19.572Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Shipper.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Entities\\Sales\\Shipper.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Entities\\Sales\\Shipper.cs",
-              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Entities\\Sales\\Shipper.cs",
-              "RelativeToolTip": "BusinessLayer\\Entities\\Sales\\Shipper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:01:20.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Entities\\Production\\Product.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Entities\\Production\\Product.cs",
-              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Entities\\Production\\Product.cs",
-              "RelativeToolTip": "BusinessLayer\\Entities\\Production\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:02:58.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 8,
               "Title": "EmployeesController.cs",
               "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BackendStore\\Controllers\\EmployeesController.cs",
               "RelativeDocumentMoniker": "BackendStore\\Controllers\\EmployeesController.cs",
@@ -493,33 +261,264 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Entities\\Sales\\Customer.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Entities\\Sales\\Customer.cs",
-              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Entities\\Sales\\Customer.cs",
-              "RelativeToolTip": "BusinessLayer\\Entities\\Sales\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BackendStore\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "BackendStore\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BackendStore\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "BackendStore\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T16:17:19.572Z",
+              "WhenOpened": "2025-09-29T22:27:19.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BackendStore\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "BackendStore\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BackendStore\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "BackendStore\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwEoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T23:29:19.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BackendStore\\Program.cs",
+              "RelativeDocumentMoniker": "BackendStore\\Program.cs",
+              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BackendStore\\Program.cs",
+              "RelativeToolTip": "BackendStore\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:43:06.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Services\\Sales\\OrderService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\Sales\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Services\\Sales\\OrderService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\Sales\\OrderService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAIwF0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:59:12.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Interfaces\\Repositories\\Sales\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Interfaces\\Repositories\\Sales\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Interfaces\\Repositories\\Sales\\IOrderRepository.cs",
+              "RelativeToolTip": "BusinessLayer\\Interfaces\\Repositories\\Sales\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:48:24.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Interfaces\\Repositories\\Sales\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Interfaces\\Repositories\\Sales\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Interfaces\\Repositories\\Sales\\ICustomerRepository.cs",
+              "RelativeToolTip": "BusinessLayer\\Interfaces\\Repositories\\Sales\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:20:49.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShipperService.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Services\\Sales\\ShipperService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\Sales\\ShipperService.cs",
+              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Services\\Sales\\ShipperService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\Sales\\ShipperService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:11:04.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Services\\Sales\\CustomerService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\Sales\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Services\\Sales\\CustomerService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\Sales\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:36:46.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Interfaces\\Repositories\\HR\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Interfaces\\Repositories\\HR\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Interfaces\\Repositories\\HR\\IEmployeeRepository.cs",
+              "RelativeToolTip": "BusinessLayer\\Interfaces\\Repositories\\HR\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:04:34.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwGsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:21:47.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShipperRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Repositories\\Sales\\ShipperRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Sales\\ShipperRepository.cs",
+              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Repositories\\Sales\\ShipperRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Sales\\ShipperRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:17:42.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Repositories\\Sales\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Sales\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Repositories\\Sales\\CustomerRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Sales\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:22:03.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IShipperRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Interfaces\\Repositories\\Sales\\IShipperRepository.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Interfaces\\Repositories\\Sales\\IShipperRepository.cs",
+              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Interfaces\\Repositories\\Sales\\IShipperRepository.cs",
+              "RelativeToolTip": "BusinessLayer\\Interfaces\\Repositories\\Sales\\IShipperRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:05:27.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Services\\HR\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\HR\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Services\\HR\\EmployeeService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\HR\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:06:57.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Repositories\\HR\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\HR\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Repositories\\HR\\EmployeeRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\HR\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:12:48.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Interfaces\\Repositories\\Production\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Interfaces\\Repositories\\Production\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Interfaces\\Repositories\\Production\\IProductRepository.cs",
+              "RelativeToolTip": "BusinessLayer\\Interfaces\\Repositories\\Production\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:06:12.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ShippersController.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BackendStore\\Controllers\\ShippersController.cs",
+              "RelativeDocumentMoniker": "BackendStore\\Controllers\\ShippersController.cs",
+              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BackendStore\\Controllers\\ShippersController.cs",
+              "RelativeToolTip": "BackendStore\\Controllers\\ShippersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:26:14.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Entities\\HR\\Employee.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Entities\\HR\\Employee.cs",
+              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Entities\\HR\\Employee.cs",
+              "RelativeToolTip": "BusinessLayer\\Entities\\HR\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:00:24.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Shipper.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Entities\\Sales\\Shipper.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Entities\\Sales\\Shipper.cs",
+              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Entities\\Sales\\Shipper.cs",
+              "RelativeToolTip": "BusinessLayer\\Entities\\Sales\\Shipper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:01:20.394Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "Infrastructure",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Entities\\Production\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Entities\\Production\\Product.cs",
+              "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Entities\\Production\\Product.cs",
+              "RelativeToolTip": "BusinessLayer\\Entities\\Production\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:02:58.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Infrastructure.csproj",
               "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
               "ToolTip": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\Infrastructure\\Infrastructure.csproj",
               "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-29T17:20:54.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T17:20:54.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BackendStore\\appsettings.json",
               "RelativeDocumentMoniker": "BackendStore\\appsettings.json",
@@ -527,12 +526,11 @@
               "RelativeToolTip": "BackendStore\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-29T17:38:45.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T17:38:45.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Domain.csproj",
               "DocumentMoniker": "C:\\Users\\Santiago Salazar\\Documents\\Trabajo\\NSerio\\Prueba tecnica\\Project\\BackendStore\\BusinessLayer\\Domain.csproj",
               "RelativeDocumentMoniker": "BusinessLayer\\Domain.csproj",
@@ -540,8 +538,7 @@
               "RelativeToolTip": "BusinessLayer\\Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-29T17:18:38.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T17:18:38.895Z"
             }
           ]
         }

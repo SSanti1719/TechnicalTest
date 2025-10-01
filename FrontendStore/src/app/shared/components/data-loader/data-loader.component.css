@@ -1,0 +1,20 @@
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 200px;
+  flex-direction: column;
+  text-align: center;
+}
+
+.loader-container mat-icon {
+  margin-bottom: 8px;
+}
+
+.loader-container.error mat-icon {
+  color: #d32f2f;
+}
+
+.loader-container.empty mat-icon {
+  color: #1976d2;
+}

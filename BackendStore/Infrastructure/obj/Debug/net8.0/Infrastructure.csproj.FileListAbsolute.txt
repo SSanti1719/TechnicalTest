@@ -13,3 +13,4 @@ C:\Users\Santiago Salazar\Documents\Trabajo\NSerio\Prueba tecnica\Project\Backen
 C:\Users\Santiago Salazar\Documents\Trabajo\NSerio\Prueba tecnica\Project\BackendStore\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 C:\Users\Santiago Salazar\Documents\Trabajo\NSerio\Prueba tecnica\Project\BackendStore\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\Santiago Salazar\Documents\Trabajo\NSerio\Prueba tecnica\Project\BackendStore\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Santiago Salazar\Documents\Trabajo\NSerio\Prueba tecnica\Project\BackendStore\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
