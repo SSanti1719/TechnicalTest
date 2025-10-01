@@ -30,28 +30,5 @@ namespace BackendStore.Controllers
             if (customer == null) return NotFound();
             return Ok(customer);
         }
-
-        [HttpPost]
-        public async Task<IActionResult> Create(Customer customer)
-        {
-            await _service.AddAsync(customer);
-            return CreatedAtAction(nameof(GetById), new { id = customer.CustId }, customer);
-        }
-
-        [HttpPut("{id}")]
-        public async Task<IActionResult> Update(int id, Customer customer)
-        {
-            if (id != customer.CustId) return BadRequest();
-
-            await _service.UpdateAsync(customer);
-            return NoContent();
-        }
-
-        [HttpDelete("{id}")]
-        public async Task<IActionResult> Delete(int id)
-        {
-            await _service.DeleteAsync(id);
-            return NoContent();
-        }
     }
 }

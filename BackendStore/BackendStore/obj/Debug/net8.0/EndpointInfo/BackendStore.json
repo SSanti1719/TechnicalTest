@@ -15,100 +15,10 @@
             "description": "OK"
           }
         }
-      },
-      "post": {
-        "tags": [
-          "Customers"
-        ],
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Customer"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Customer"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/Customer"
-              }
-            }
-          }
-        },
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
       }
     },
     "/api/Customers/{id}": {
       "get": {
-        "tags": [
-          "Customers"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      },
-      "put": {
-        "tags": [
-          "Customers"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          }
-        ],
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Customer"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Customer"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/Customer"
-              }
-            }
-          }
-        },
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      },
-      "delete": {
         "tags": [
           "Customers"
         ],
@@ -175,9 +85,7 @@
             "description": "OK"
           }
         }
-      }
-    },
-    "/api/Orders/with-sp": {
+      },
       "post": {
         "tags": [
           "Orders"
@@ -339,56 +247,6 @@
   },
   "components": {
     "schemas": {
-      "Customer": {
-        "type": "object",
-        "properties": {
-          "custId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "companyName": {
-            "type": "string",
-            "nullable": true
-          },
-          "contactName": {
-            "type": "string",
-            "nullable": true
-          },
-          "contactTitle": {
-            "type": "string",
-            "nullable": true
-          },
-          "address": {
-            "type": "string",
-            "nullable": true
-          },
-          "city": {
-            "type": "string",
-            "nullable": true
-          },
-          "region": {
-            "type": "string",
-            "nullable": true
-          },
-          "postalCode": {
-            "type": "string",
-            "nullable": true
-          },
-          "country": {
-            "type": "string",
-            "nullable": true
-          },
-          "phone": {
-            "type": "string",
-            "nullable": true
-          },
-          "fax": {
-            "type": "string",
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
       "OrderCreateDTO": {
         "type": "object",
         "properties": {

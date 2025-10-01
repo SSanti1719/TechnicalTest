@@ -6,11 +6,11 @@ import { API_ENDPOINTS } from '@app/core/config/api.config';
 
 @Injectable({ providedIn: 'root' })
 export class CustomersService {
-  private readonly baseUrl = API_ENDPOINTS.customers;
+  private readonly baseUrl = API_ENDPOINTS.orders;
 
   constructor(private http: HttpClient) {}
 
   getOrderSummaries(): Observable<CustomerOrderSummary[]> {
-    return this.http.get<CustomerOrderSummary[]>(this.baseUrl);
+    return this.http.get<CustomerOrderSummary[]>(`${this.baseUrl}/predicted`);
   }
 }

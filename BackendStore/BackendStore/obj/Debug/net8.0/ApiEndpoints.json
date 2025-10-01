@@ -11,62 +11,9 @@
   },
   {
     "ContainingType": "BackendStore.Controllers.CustomersController",
-    "Method": "Create",
-    "RelativePath": "api/Customers",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "customer",
-        "Type": "Domain.Entities.Sales.Customer",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "BackendStore.Controllers.CustomersController",
     "Method": "GetById",
     "RelativePath": "api/Customers/{id}",
     "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "BackendStore.Controllers.CustomersController",
-    "Method": "Update",
-    "RelativePath": "api/Customers/{id}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "customer",
-        "Type": "Domain.Entities.Sales.Customer",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "BackendStore.Controllers.CustomersController",
-    "Method": "Delete",
-    "RelativePath": "api/Customers/{id}",
-    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -116,6 +63,22 @@
   },
   {
     "ContainingType": "BackendStore.Controllers.OrdersController",
+    "Method": "CreateWithSp",
+    "RelativePath": "api/Orders",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Domain.DTOs.OrderCreateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackendStore.Controllers.OrdersController",
     "Method": "GetById",
     "RelativePath": "api/Orders/{id}",
     "HttpMethod": "GET",
@@ -154,22 +117,6 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "BackendStore.Controllers.OrdersController",
-    "Method": "CreateWithSp",
-    "RelativePath": "api/Orders/with-sp",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "dto",
-        "Type": "Domain.DTOs.OrderCreateDTO",
-        "IsRequired": true
-      }
-    ],
     "ReturnTypes": []
   },
   {

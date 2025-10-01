@@ -19,6 +19,6 @@ export class OrdersService {
   }
 
   create(order: OrderDto): Observable<any> {
-    return this.http.post<any>(`${this.baseUrl}/with-sp`, order);
+    return this.http.post<any>(`${this.baseUrl}`, order);
   }
 }

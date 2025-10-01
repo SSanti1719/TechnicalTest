@@ -24,7 +24,7 @@ namespace BackendStore.Controllers
             return Ok(products);
         }
 
-        [HttpPost("with-sp")]
+        [HttpPost]
         public async Task<IActionResult> CreateWithSp(OrderCreateDTO dto)
         {
             try
