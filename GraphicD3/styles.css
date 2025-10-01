@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 30px;
+}
+
+label {
+  font-weight: bold;
+}
+
+input {
+  padding: 5px;
+  margin-left: 10px;
+  width: 200px;
+}
+
+button {
+  padding: 6px 12px;
+  margin-left: 10px;
+  background-color: #4da6ff;
+  border: none;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1a8cff;
+}
+
+#chart {
+  margin-top: 20px;
+}
