@@ -1,3 +1,4 @@
+using BackendStore.Middlewares;
 using Domain.Interfaces.Repositories.HR;
 using Domain.Interfaces.Repositories.Production;
 using Domain.Interfaces.Repositories.Sales;
@@ -53,6 +54,8 @@ app.UseCors(builder =>
     builder.WithOrigins("http://localhost:4200")
            .AllowAnyHeader()
            .AllowAnyMethod());
+
+app.UseMiddleware<ExceptionMiddleware>();
 
 app.UseHttpsRedirection();
 

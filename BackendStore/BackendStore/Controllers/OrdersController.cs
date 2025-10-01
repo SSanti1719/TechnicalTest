@@ -27,39 +27,8 @@ namespace BackendStore.Controllers
         [HttpPost]
         public async Task<IActionResult> CreateWithSp(OrderCreateDTO dto)
         {
-            try
-            {
-                var order = await _service.CreateOrderSpAsync(dto);
-                return CreatedAtAction(nameof(GetById), new { id = order.OrderId }, order);
-            }
-            catch (InvalidOperationException ex)
-            {
-                // Errores de negocio / SP no devuelve OrderId / violaciones de integridad
-                return BadRequest(new
-                {
-                    Success = false,
-                    Message = ex.Message
-                });
-            }
-            catch (ApplicationException ex)
-            {
-                // Errores inesperados internos (ej: conexión perdida)
-                return StatusCode(500, new
-                {
-                    Success = false,
-                    Message = ex.Message
-                });
-            }
-            catch (Exception ex)
-            {
-                // Fallback por si algo no previsto ocurre
-                return StatusCode(500, new
-                {
-                    Success = false,
-                    Message = "Ocurrió un error inesperado.",
-                    Detail = ex.Message
-                });
-            }
+            var order = await _service.CreateOrderSpAsync(dto);
+            return CreatedAtAction(nameof(GetById), new { id = order.OrderId }, order);
         }
 
         [HttpGet("{id:int}")]
